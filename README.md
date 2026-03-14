@@ -1,44 +1,19 @@
-# Translucence Theme - [![Paypal][paypal-logo]][paypal-url] [![GitHub][github-logo]][github-url] [![Discord][discord-logo]][discord-url]
+# Translucence Theme (fork)
 #### A translucent/frosted glass Discord theme
 <hr>
 
-Current version: v1.0.6.3 (26/02/2021)
+No direct BetterDiscord download.
 
-[BetterDiscord download](https://betterdiscord.app/theme/Translucence)
-<br>
-[View source files](https://github.com/CapnKitten/BetterDiscord/tree/master/Themes/Translucence)
-
-Vencord link
+Use the link instead.
 ```
-https://capnkitten.github.io/BetterDiscord/Themes/Translucence/css/source.css
+https://raw.githubusercontent.com/Faizaan-J/Translucence/refs/heads/master/Translucence.theme.css
 ```
-
-## Previews
-
-#### Main chat area
-
-![discord-101](https://user-images.githubusercontent.com/4013216/125158359-b07aec80-e13e-11eb-8a85-01e49d772192.png)
-
-#### User server info
-
-![discord-102](https://user-images.githubusercontent.com/4013216/125158363-b7a1fa80-e13e-11eb-91c0-b95c32b5bf8e.png)
-
-#### User info popout
-
-![discord-103](https://user-images.githubusercontent.com/4013216/125158368-bc66ae80-e13e-11eb-912b-7d19a84f42a0.png)
-
-#### User settings
-
-![discord-104](https://user-images.githubusercontent.com/4013216/125158372-c25c8f80-e13e-11eb-9165-e24880bc47f7.png)
-
-#### DMs
-
-![discord-105](https://user-images.githubusercontent.com/4013216/125158378-c8527080-e13e-11eb-9ad5-a7f2e229ac2b.png)
+Or download `Translucence.theme.css` and place it in your themes folder for more configuration 
 
 ## Variables
 
 #### App elements
- - `--app-bg` - The background image for the entire Discord app. Default: `url(https://i.imgur.com/U8bSjj5.jpg)`
+ - `--app-bg` - The background image for the entire Discord app. Default: `url(https://raw.githubusercontent.com/Faizaan-J/Translucence/refs/heads/master/assets/GreenGradient.png)`
  - `--app-blur` - The strength of the blur for every element that has one. Default: `6px`
  - `--app-margin` - The margin surrounding the content area. Default: `24px`
  - `--app-radius` - The border radius of the app and every element that has a border radius. Default: `8px`
@@ -94,12 +69,8 @@ https://capnkitten.github.io/BetterDiscord/Themes/Translucence/css/source.css
  - `--popout-header-shadow`- The shadow for headers in modals/popouts. Default: `0px 3px 9px 0px rgba(0,0,0, 0.25)`
  - `--popout-radius` - The border radius for modals/popouts. Default: `8px`
  - `--popout-shadow` - The shadow for modals/popouts. Default: `0 8px 10px 1px rgba(0,0,0, 0.14)`
- 
-[paypal-logo]: https://img.shields.io/static/v1?label=PayPal&message=Donate&style=flat&logo=paypal&color=blue
-[paypal-url]: https://paypal.me/capnkitten
 
-[github-logo]: https://img.shields.io/static/v1?label=GitHub&message=Sponsor&style=flat&logo=github&color=black
-[github-url]: https://github.com/sponsors/CapnKitten
+# Credit
+This is forked from [CapnKitten](https://github.com/CapnKitten)
 
-[discord-logo]: https://img.shields.io/static/v1?label=Discord&message=Server&style=flat&logo=discord&color=blue
-[discord-url]: https://discord.gg/jzJkA6Z
+https://github.com/CapnKitten/Translucence

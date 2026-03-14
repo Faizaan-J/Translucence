@@ -2966,11 +2966,11 @@ body,
   border-radius: var(--message-radius);
 }
 
-.backgroundFlash__5126c:not([style$="0);"]):not(data-flash="false") {
-  background-color: hsla(var(--accent-hsl), 0.3) !important;
-  transition: 200ms ease-out background-color;
+.flash__03436[data-flash=true] {
+    background-color: hsla(var(--accent-hsl), 0.3) !important;
+    transition: 200ms ease-out background-color;
 }
-.backgroundFlash__5126c:not([style$="0);"])[data-flash="false"] {
+.flash__03436[data-flash=false] {
     transition: 400ms cubic-bezier(0.16, 1, 0.3, 1) background-color; /* ease out exponential */
 }
 
