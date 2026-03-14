@@ -1,6 +1,6 @@
 /**
- * @name Translucence
- * @version 1.0.7
+ * @name Translucence (forked)
+ * @version 1.0.6.4
  * @description A translucent/frosted glass Discord theme
  * @author CapnKitten
  *
@@ -10,7 +10,7 @@
  * @invite jzJkA6Z
  */
 
-@import url(https://capnkitten.github.io/BetterDiscord/Themes/Translucence/css/source.css);
+@import url(https://raw.githubusercontent.com/Faizaan-J/Translucence/refs/heads/master/Source.css);
 
 :root {
 	/* APP ELEMENTS */
